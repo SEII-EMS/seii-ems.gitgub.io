@@ -1,2 +1,2 @@
-# seii-ems.gitgub.io
+# seii-ers.gitgub.io
 Software Engineering group project
